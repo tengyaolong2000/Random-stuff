@@ -1,0 +1,7 @@
+Apple
+Microsoft
+Nvdia
+AMD
+Acer
+Logitech
+Razer
